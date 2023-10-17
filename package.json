@@ -1,0 +1,14 @@
+{
+  "name": "js-calculator-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shinhyojeong/js-calculator-test.git",
+  "author": "shinhyojeong <hyojeonge0@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.3.1"
+  }
+}
